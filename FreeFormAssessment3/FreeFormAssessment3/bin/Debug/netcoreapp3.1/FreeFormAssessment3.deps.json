@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FreeFormAssessment3/1.0.0": {
+        "runtime": {
+          "FreeFormAssessment3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FreeFormAssessment3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

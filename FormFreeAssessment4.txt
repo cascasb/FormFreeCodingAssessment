@@ -1,0 +1,18 @@
+## Assessment 4
+
+1. SELECT * FROM Customers
+2. SELECT DISTINCT Customers FROM Orders
+3. SELECT * FROM Customers
+   WHERE NOT Orders.customer_id = Customers.id
+4. I would index both the Customers.id and the Orders.customer_id as 
+   they can be used to connect the two tables quickly. I would also index
+   Orders.id and Orders.order_address as a quck way to find individual
+   orders. Customers.phone_number and Customers.email could also be quick
+   ways to find specific customers in the system if their id is unknown
+   or unavailable for some reason.
+5. SELECT Customers.name, Customers.email, COUNT (Customer.id) AS Orders
+   INNER JOIN Customers ON orders.customer_id = Customers.id
+6. SELECT COUNT(id)
+   FROM Order
+   WHERE Orders.customer_id = Customers.id
+   BETWEEN 2 AND 5

@@ -1,0 +1,13 @@
+C:\Users\casca\Documents\Portfolio\FormFree Coding Assesment\FreeFormAssessment3\FreeFormAssessment3\bin\Debug\netcoreapp3.1\FreeFormAssessment3.exe
+C:\Users\casca\Documents\Portfolio\FormFree Coding Assesment\FreeFormAssessment3\FreeFormAssessment3\bin\Debug\netcoreapp3.1\FreeFormAssessment3.deps.json
+C:\Users\casca\Documents\Portfolio\FormFree Coding Assesment\FreeFormAssessment3\FreeFormAssessment3\bin\Debug\netcoreapp3.1\FreeFormAssessment3.runtimeconfig.json
+C:\Users\casca\Documents\Portfolio\FormFree Coding Assesment\FreeFormAssessment3\FreeFormAssessment3\bin\Debug\netcoreapp3.1\FreeFormAssessment3.runtimeconfig.dev.json
+C:\Users\casca\Documents\Portfolio\FormFree Coding Assesment\FreeFormAssessment3\FreeFormAssessment3\bin\Debug\netcoreapp3.1\FreeFormAssessment3.dll
+C:\Users\casca\Documents\Portfolio\FormFree Coding Assesment\FreeFormAssessment3\FreeFormAssessment3\bin\Debug\netcoreapp3.1\FreeFormAssessment3.pdb
+C:\Users\casca\Documents\Portfolio\FormFree Coding Assesment\FreeFormAssessment3\FreeFormAssessment3\obj\Debug\netcoreapp3.1\FreeFormAssessment3.csprojAssemblyReference.cache
+C:\Users\casca\Documents\Portfolio\FormFree Coding Assesment\FreeFormAssessment3\FreeFormAssessment3\obj\Debug\netcoreapp3.1\FreeFormAssessment3.AssemblyInfoInputs.cache
+C:\Users\casca\Documents\Portfolio\FormFree Coding Assesment\FreeFormAssessment3\FreeFormAssessment3\obj\Debug\netcoreapp3.1\FreeFormAssessment3.AssemblyInfo.cs
+C:\Users\casca\Documents\Portfolio\FormFree Coding Assesment\FreeFormAssessment3\FreeFormAssessment3\obj\Debug\netcoreapp3.1\FreeFormAssessment3.csproj.CoreCompileInputs.cache
+C:\Users\casca\Documents\Portfolio\FormFree Coding Assesment\FreeFormAssessment3\FreeFormAssessment3\obj\Debug\netcoreapp3.1\FreeFormAssessment3.dll
+C:\Users\casca\Documents\Portfolio\FormFree Coding Assesment\FreeFormAssessment3\FreeFormAssessment3\obj\Debug\netcoreapp3.1\FreeFormAssessment3.pdb
+C:\Users\casca\Documents\Portfolio\FormFree Coding Assesment\FreeFormAssessment3\FreeFormAssessment3\obj\Debug\netcoreapp3.1\FreeFormAssessment3.genruntimeconfig.cache
